@@ -50,9 +50,9 @@ Currently focused on mastering the *MERN Stack, Java & Spring Boot* and strength
 
 ### 📊 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=themishrashivam&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themishrashivam&layout=compact&theme=radical&hide_border=true)
 
 ---
 
